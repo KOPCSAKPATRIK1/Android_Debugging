@@ -11,12 +11,13 @@
         android:layout_height="wrap_content"
         android:id="@+id/textViewName"
         android:textSize="30dp"
-        android:gravity="center"/>
+        android:gravity="center"
+        />
 
     <LinearLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:orientation="horizontal"
+        android:orientation="vertical"
         android:layout_centerInParent="true"
         android:gravity="center">
 
@@ -24,7 +25,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:id="@+id/buttonNext"
-            android:text="Következő Activity"
+            android:text="Következő Activit"
             android:textSize="30dp"
             />
 
